@@ -1,2 +1,5 @@
 # hello-darlington
-this is a test example project
+
+# personal details about me..
+
+I am a humble Yorkshireman.
